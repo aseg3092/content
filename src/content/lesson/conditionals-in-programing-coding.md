@@ -85,7 +85,6 @@ else{
   console.log("I have no idea");
 }
 ```
-
 As you can see here we are using ` else if` together for the first time, for faster coding. Another trick you can use for faster coding:
 
 | Original | Equivalent |
